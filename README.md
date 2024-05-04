@@ -14,18 +14,27 @@
 ### :sparkles: Projetos favoritos
 
 **Meu portfólio**
+
 <img src="https://joaolubawaskiportifolio.pythonanywhere.com/media/project-prints/Imagem_ZkDDV7m.png" alt="Print do Portfólio" width="700"/>
 Um site até que simples, feito com React no front e Django em sua api própria com meus projetos. <br/>
+
 [![Acesso](https://img.shields.io/badge/-Acessar-7158e2?style=for-the-badge)](https://joaolubawaski.vercel.app) [![GitHub](https://img.shields.io/badge/-Ver%20no%20Github-7158e2?style=for-the-badge)](https://github.com/JoaoLubaw/Portfolio-2.0)
+
 <br/>
+
 **Eplay**
+
 <img src="https://joaolubawaskiportifolio.pythonanywhere.com/media/project-prints/Imagem.png" alt="Print do Portfólio" width="700"/>
 Marketplace completo de uma loja virtual de jogos. Feito com front em React + TypeScript, com Redux e consumo de uma api. <br/>
+
 [![Acesso](https://img.shields.io/badge/-Acessar-7158e2?style=for-the-badge)](https://e-play-delta.vercel.app) [![GitHub](https://img.shields.io/badge/-Ver%20no%20Github-7158e2?style=for-the-badge)](https://github.com/JoaoLubaw/ePlay)
 <br/>
+
 **Buuret**
+
 <img src="https://joaolubawaskiportifolio.pythonanywhere.com/media/project-prints/Imagem_XEwNskG.png" alt="Print do Portfólio" width="700"/>
 Meu projeto favorito, uma rede social completa, estilo o Twitter, com função de Rets (Tweets), users com alteração de imagem de perfil e descrição, além dos Buus, mensagens anônimas. Feito com React+TypeScript e Python + Django. <br/>
+
 [![Acesso](https://img.shields.io/badge/-Acessar-7158e2?style=for-the-badge)](https://buuret.vercel.app/login) [![GitHub](https://img.shields.io/badge/-Ver%20no%20Github-7158e2?style=for-the-badge)](https://github.com/JoaoLubaw/Buuret)
 
 ### GitHub Stats
